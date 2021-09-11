@@ -1,0 +1,70 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"firstName": "john",
+			"lastName": "Doe",
+			"birthDate": "14-11-1996",
+			"gender": "male",
+			"email": "john@doe.com",
+			"country": "algeria",
+			"password": "123456789"
+		},
+		{
+			"firstName": "yo",
+			"lastName": "ouardi",
+			"email": "email@test.com",
+			"country": "DZ",
+			"birthdate": "2021-09-08T02:18:38.140Z",
+			"gender": "male",
+			"password": "hi123",
+			"id": "a0acf63d-dcc4-4cb0-9304-46d084dd483c"
+		},
+		{
+			"firstName": "yo",
+			"lastName": "ouardi",
+			"email": "email@test.com",
+			"country": "DZ",
+			"birthdate": "2021-09-08T02:18:38.140Z",
+			"gender": "male",
+			"password": "hi123",
+			"id": "61887d4c-03d7-417e-b652-d93b3c5631f7"
+		},
+		{
+			"firstName": "ugyfg",
+			"lastName": "kfgsg",
+			"email": "kdgsdjhg",
+			"country": "DZ",
+			"birthdate": "2021-09-15T13:29:43.977Z",
+			"gender": "male",
+			"password": "123456789",
+			"id": "185b5345-bc70-4d7a-9b1f-1c8a728ae1bb"
+		}
+	],
+	"notifications": [
+		{
+			"name": "notification 1",
+			"description": "this is an old notification",
+			"read": true,
+			"id": 1
+		},
+		{
+			"name": "notification 2",
+			"description": "this is a new notification",
+			"read": false,
+			"id": 2
+		},
+		{
+			"name": "notification 3",
+			"description": "this is an old notification",
+			"read": true,
+			"id": 3
+		},
+		{
+			"name": "notification 4",
+			"description": "this is an old notification",
+			"read": true,
+			"id": 4
+		}
+	]
+}
