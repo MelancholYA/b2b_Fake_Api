@@ -143,14 +143,11 @@
 	"translation":{
 		"eng": {
 			"translation": {
-			  "Overview": "Overview",
-			  "Messages": "Messages",
-			  "Notifications": "Notifications",
-			  "auth": {
-				"logText": "log in to your account",
-				"logButton": "login",
-				"regButton": "register",
-				"passButton": "forgot your password",
+				"buttons":{
+				"login": "login",
+				"register": "register",
+				"password": "forgot your password"
+				},
 				"fields": {
 				  "firstName": "first name",
 				  "lastName": "last name",
@@ -160,31 +157,42 @@
 				  "country": "select your country",
 				  "gender": "select your gender",
 				  "secPassword": "repeat password"
+				},
+				"titles":{
+					"logText": "log in to your account"
+				},
+				"menu":{
+					"Overview": "Overview",
+			  		"Messages": "Messages",
+			  		"Notifications": "Notifications"
 				}
-			  }
 			}
 		  },
 		  "ita": {
 			"translation": {
-			  "Overview": "Panoramica",
-			  "Messages": "Messaggi",
-			  "Notifications": "Notifiche",
-			  "auth": {
-				"logText": "accedi al tuo account",
-				"logButton": "accedi",
-				"regButton": "registrati",
-				"passButton": "password dimenticata",
-				"fields": {
-				  "firstName":"nome",
-				  "lastName": "cognome",
-				  "email": "email",
-				  "password":"password",
-				  "birthday": "Seleziona il tuo compleanno",
-				  "country": "seleziona il tuo paese",
-				  "gender": "seleziona il tuo genere",
-				  "secPassword": "ripeti password"
-				}
-			  }
+				"buttons":{
+					"login": "accedi",
+					"register": "registrati",
+					"password": "password dimenticata"
+					},
+					"fields": {
+					  "firstName": "nome",
+					  "lastName": "cognome",
+					  "email": "email",
+					  "password": "password",
+					  "birthday": "Seleziona il tuo compleanno",
+					  "country": "seleziona il tuo paese",
+					  "gender": "seleziona il tuo genere",
+					  "secPassword": "ripeti password"
+					},
+					"titles":{
+						"logText": "accedi al tuo account"
+					},
+					"menu":{
+						"Overview": "Panoramica",
+						  "Messages": "Messaggi",
+						  "Notifications": "Notifiche"
+					}
 			}
 		  }
 	}
