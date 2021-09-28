@@ -73,7 +73,73 @@
 			"id": 4
 		}
 	],
-	"orders":[],
+	"orders":[
+		{
+			"id":1,
+			"date":"24/05/2021",
+			"items":[
+				{
+					"id":"1",
+					"label":"fall guys",
+					"price":"140"
+				},
+				{
+					"id":"3",
+					"label":"GTA IV",
+					"price":"90"
+				}
+			],
+			"total":"230",
+			"status":"paid",
+			"statusCode":1,
+			"code":"In progress..."
+		},
+		{
+			"id":2,
+			"date":"24/06/2021",
+			"items":[
+				{
+					"id":"3",
+					"label":"GTA IV",
+					"price":"90"
+				}
+			],
+			"total":"90",
+			"status":"not paid",
+			"statusCode":2
+		},
+		{
+			"id":3,
+			"date":"24/05/2020",
+			"items":[
+				{
+					"id":"1",
+					"label":"fall guys",
+					"price":"140"
+				}
+		
+			],
+			"total":"140",
+			"status":"hold",
+			"statusCode":3
+		},
+		{
+			"id":4,
+			"date":"24/05/2019",
+			"items":[
+				
+				{
+					"id":"3",
+					"label":"GTA IV",
+					"price":"90"
+				}
+			],
+			"total":"90",
+			"status":"complete",
+			"statusCode":4,
+			"code":"FREG-GF4R-FRE7-547RE-78DE"
+		}
+	],
 	"translation":{
 		"eng": {
 			"translation": {
