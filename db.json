@@ -140,6 +140,21 @@
 			"code":"FREG-GF4R-FRE7-547RE-78DE"
 		}
 	],
+	"hstory":[
+		{
+			"type":"Payment with balance",
+			"date":"24/05/2021",
+			"Value":"-2500.00DZD",
+			"Status":"Completed",
+			"Details":null
+		},{
+			"type":"Top-Up",
+			"date":"24/05/2021",
+			"Value":"+2500.00DZD",
+			"Status":"Completed",
+			"Details":"With gift card"
+		}
+	],
 	"translation":{
 		"eng": {
 			"translation": {
