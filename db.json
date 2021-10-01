@@ -144,15 +144,15 @@
 		{
 			"type":"Payment with balance",
 			"date":"24/05/2021",
-			"Value":"-2500.00DZD",
-			"Status":"Completed",
-			"Details":null
+			"value":"-2500.00DZD",
+			"status":"Completed",
+			"details":null
 		},{
 			"type":"Top-Up",
 			"date":"24/05/2021",
-			"Value":"+2500.00DZD",
-			"Status":"Completed",
-			"Details":"With gift card"
+			"value":"+2500.00DZD",
+			"status":"Completed",
+			"details":"With gift card"
 		}
 	],
 	"translation":{
