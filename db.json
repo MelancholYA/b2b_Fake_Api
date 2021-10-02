@@ -161,61 +161,6 @@
 			"name":"Biomutant",
 			"description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi maiores amet pariatur facere. Quam, ipsam sunt. Ea minus quis eveniet earum voluptatibus. Beatae laboriosam debitis consequuntur. Labore neque aperiam corrupti eaque expedita atque eum accusamus dignissimos consequuntur at. Cumque nobis perspiciatis vitae pariatur voluptate. Natus ut ex aut quaerat iste consequatur quia enim aperiam ipsa mollitia maiores, odit aspernatur. Dolor, necessitatibus. Quisquam corrupti beatae natus aspernatur perspiciatis alias voluptatibus dignissimos provident sequi eius totam dolor fugit consectetur nostrum praesentium assumenda, repellat tempora vitae laboriosam! Rem necessitatibus quos alias consequuntur nobis unde. Facere possimus rerum eos iste. Repellat, minima eligendi totam adipisci eaque excepturi voluptatibus unde officiis aperiam quod dolorem quam odit, ratione quaerat saepe reiciendis eius soluta inventore facere, asperiores facilis? Tempore exercitationem consectetur mollitia cumque repellat, alias omnis id. Neque accusamus soluta maiores, doloribus officiis amet eveniet sapiente. Quasi earum qui quidem expedita ut iste nemo praesentium totam omnis."
 		}
-	],
-	"translation":{
-		"eng": {
-			"translation": {
-				"buttons":{
-				"login": "login",
-				"register": "register",
-				"password": "forgot your password"
-				},
-				"fields": {
-				  "firstName": "first name",
-				  "lastName": "last name",
-				  "email": "email",
-				  "password": "password",
-				  "birthday": "Select your bithday",
-				  "country": "select your country",
-				  "gender": "select your gender",
-				  "secPassword": "repeat password"
-				},
-				"titles":{
-					"logText": "log in to your account"
-				},
-				"menu":{
-					"Overview": "Overview",
-			  		"Messages": "Messages",
-			  		"Notifications": "Notifications"
-				}
-			}
-		  },
-		  "ita": {
-			"translation": {
-				"buttons":{
-					"login": "accedi",
-					"register": "registrati",
-					"password": "password dimenticata"
-					},
-					"fields": {
-					  "firstName": "nome",
-					  "lastName": "cognome",
-					  "email": "email",
-					  "password": "password",
-					  "birthday": "Seleziona il tuo compleanno",
-					  "country": "seleziona il tuo paese",
-					  "gender": "seleziona il tuo genere",
-					  "secPassword": "ripeti password"
-					},
-					"titles":{
-						"logText": "accedi al tuo account"
-					},
-					"menu":{
-						"Overview": "Panoramica",
-						  "Messages": "Messaggi",
-						  "Notifications": "Notifiche"
-					}
-			}
-		  }
-	}
+	]
+
 }
